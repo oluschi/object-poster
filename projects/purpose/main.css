@@ -1,0 +1,44 @@
+body{
+	background-color:#C4FF64;
+}
+
+.poster{
+	position: absolute;
+	width: 1167px;
+	height: 1019px;
+	left: 80px;
+	top: 359px;
+}
+
+.img.center{
+	position: absolute;
+	width: 1167px;
+	height: 1019px;
+	left: 80px;
+	top: 359px;
+}
+
+/* Rectangle 1 */
+
+.box{
+position: absolute;
+width: 1280px;
+height: 1141px;
+left: -3px;
+top: 311px;
+
+background: #A942FB ;
+border: 30px solid #A942FB;
+}
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 1280px;
+height: 1141px;
+left: -3px;
+top: 311px;
+
+background: #FFFFFF;
+border: 30px solid #A942FB;
+box-sizing: border-box;
